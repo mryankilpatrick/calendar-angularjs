@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var app = angular.module('CalendarApp', ['ngRoute']);
 
 app.config(function ($routeProvider) {
@@ -35,3 +36,6 @@ app.config(function ($routeProvider) {
 // 			redirectTo: '/'
 // 		});
 // });
+=======
+var app = angular.module('CalendarApp', []);
+>>>>>>> 8e1517a4f43393c712b5708728c5b24bf699d3d2
